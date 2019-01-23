@@ -2,7 +2,7 @@
 
 Browser extension that adds random sorting to your Plex* libraries. A shuffle button is added to the top of the page.
 
-![alt tag](https://raw.githubusercontent.com/conceptualspace/metatrailer-for-plex/master/plex-logo-flat-small.png)
-![alt tag](https://raw.githubusercontent.com/conceptualspace/metatrailer-for-plex/master/screenshot.png)
+![alt tag](https://raw.githubusercontent.com/conceptualspace/shuffle-for-plex/master/plex-logo-flat-small.png)
+![alt tag](https://raw.githubusercontent.com/conceptualspace/shuffle-for-plex/master/screenshot.png)
 
 *Plex, the Plex Play logo and Plex Media Server are trademarks of Plex and used under a license.
