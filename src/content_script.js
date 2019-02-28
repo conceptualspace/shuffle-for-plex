@@ -1,6 +1,6 @@
 
 
-$(document).arrive(".PageHeaderBadge-badge-2oDBg", function() {
+$(document).arrive(".PageHeaderBadge-badge-2oDBgn", function() {
     // selectors subject to change; working with web client v3.75.3
     let url = window.location.href.split('&');
     let sorted = false;
@@ -19,7 +19,7 @@ $(document).arrive(".PageHeaderBadge-badge-2oDBg", function() {
     a.href = newUrl;
     a.style.marginLeft = "25px";
 
-    let headerBadgeNode = $(".PageHeaderBadge-badge-2oDBg");
+    let headerBadgeNode = $(".PageHeaderBadge-badge-2oDBgn");
     headerBadgeNode[0].parentNode.insertBefore(a, headerBadgeNode.nextSibling);
 
 });
