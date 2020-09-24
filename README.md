@@ -1,5 +1,7 @@
 # shuffle for plex ![alt tag](https://raw.githubusercontent.com/conceptualspace/shuffle-for-plex/master/src/img/icon48.png) 
 
+### Note: this extension has been superseded by [Enhance-O-Tron for Plex*](https://github.com/conceptualspace/enhance-o-tron-for-plex)
+
 Browser extension that adds random sorting to your Plex* libraries. Just click the shuffle button at the top of the page.
 
 ![alt tag](https://raw.githubusercontent.com/conceptualspace/shuffle-for-plex/master/plex-logo-flat-small.png)
