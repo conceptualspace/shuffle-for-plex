@@ -3,12 +3,15 @@
 
   "name": "shuffle for plex",
   "description": "adds random sorting to your plex media library",
-  "version": "1.2",
+  "version": "1.3",
   "author": "dev@conceptualspace.net",
   "permissions": [
     "*://app.plex.tv/*",
     "*://localhost/*"
   ],
+  "background": {
+    "scripts": ["background.js"]
+  },
   "content_scripts": [
     {
       "matches": ["*://app.plex.tv/*", "*://localhost/*"],
