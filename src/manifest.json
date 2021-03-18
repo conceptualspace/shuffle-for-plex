@@ -3,7 +3,7 @@
 
   "name": "shuffle for plex",
   "description": "adds random sorting to your plex media library",
-  "version": "1.3",
+  "version": "1.4",
   "author": "dev@conceptualspace.net",
   "permissions": [
     "*://app.plex.tv/*",
